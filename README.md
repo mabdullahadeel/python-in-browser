@@ -1,3 +1,3 @@
 # Run python in browser
 
-running python in browser using pyoidide
+running python in browser using pyodide

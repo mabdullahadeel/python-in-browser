@@ -21,7 +21,5 @@
   "devDependencies": {
     "serve": "^11.2.0"
   },
-  "dependencies": {
-    "xterm": "^5.2.1"
-  }
+  "dependencies": {}
 }
